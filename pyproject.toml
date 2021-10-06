@@ -5,7 +5,7 @@ description = ""
 authors = ["yolo-kiyoshi"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.9"
 sklearn = "^0.0"
 jupyterlab = "*"
 pandas = "*"
